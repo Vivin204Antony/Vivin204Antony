@@ -23,16 +23,31 @@
 - Full Stack Web Application Development
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GITHUB STATS & TROPHIES
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vivin204Antony&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="Vivin204Antony's GitHub Streak" width="49%" />
+  <img 
+    src="https://streak-stats.vercel.app?user=Vivin204Antony&theme=highcontrast&hide_border=true&cache_seconds=86400" 
+    alt="Vivin204Antony's GitHub Streak" 
+    width="49%" 
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Antony Vivin S's GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" 
+    alt="Antony Vivin S's GitHub Trophies" 
+  />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivin204Antony&theme=highcontrast&radius=10" alt="Vivin204Antony's Activity Graph" />
+  <img 
+    height="280em" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Vivin204Antony&theme=highcontrast&radius=10" 
+    alt="Vivin204Antony's Activity Graph" 
+  />
 </p>
+
 
 
 ## 🛠️ Languages & Tools
