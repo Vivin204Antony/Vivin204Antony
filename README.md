@@ -40,7 +40,7 @@
   />
 </p>
 
-### 📈 Contribution Activity Graph — *Using Long-Term Stable Mirror*
+### 📈 Contribution Activity Graph 
 <p align="center">
   <img 
     height="280em" 
