@@ -12,10 +12,35 @@
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="100%" />
 
-## 📌 About Me
-- Aspiring Software Developer passionate about Continuous Learning & Modern Technologies.
+# 👨‍💻 About Me
+I’m a postgraduate student specializing in software development, with strong proficiency in Java and JavaScript. I enjoy building scalable, user-focused applications and working across both frontend and backend technologies. I have hands-on experience with modern frameworks, databases, cloud platforms, and DevOps tools.
 
-## 🧠 My Focus Areas
+I’m passionate about continuous learning and committed to improving my skills by exploring new technologies, contributing to meaningful projects, and solving real-world problems. My goal is to create reliable, efficient, and maintainable software while constantly growing as a developer.
+
+
+# 🧩 Experience
+
+## 🌾 **Agrophysics Intern — Blossom Agritech**  
+**Tirunelveli · On-site | May 2023 – Aug 2023**
+
+- Hands-on experience in modern agricultural practices, greenhouse operations, and crop monitoring.  
+- Performed surveying, plant population analysis, and soil sampling for NPK, pH, moisture, and micronutrients.  
+- Worked with drip irrigation systems, filtration units, and automated smart-irrigation tech such as **GroTron** and **Netafim**.  
+- Observed hydroponic systems and the complete coco peat manufacturing process.  
+- Strengthened skills in **irrigation management**, **soil testing**, and **controlled-environment agriculture**.
+
+
+## 💼 **Digital Marketing Intern — Brand Monk Academy**  
+**Coimbatore · Remote | Jul 2025 – Oct 2025**
+
+- Built and maintained **WordPress/Elementor** websites with focus on UX and conversions.  
+- Conducted SEO audits, keyword research, on-page optimization, and link-building activities.  
+- Executed SEM campaigns and analyzed performance metrics for optimization.  
+- Created SEO-optimized content, marketing copy, and social media creatives.  
+- Gained exposure to **affiliate marketing**, **influencer outreach**, **guerrilla marketing**, and **trend analysis**.
+
+
+## 🎯 My Focus Areas
 - Software Development  
 - AI/ML Development  
 - Java and JavaScript Programming  
@@ -52,7 +77,7 @@
 
 # 🛠️ **Languages & Tools**
 
-## 💻 Programming Languages
+## 🖥️ Programming Languages
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" />
