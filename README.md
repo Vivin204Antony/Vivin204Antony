@@ -48,22 +48,33 @@ I’m passionate about continuous learning and committed to improving my skills 
 
 ---
 
-# 📊 **GITHUB STATS & TROPHIES**
+# 📊 GITHUB STATS & TROPHIES
 
-### 🔥 GitHub Streak 
+## 🔥 GitHub Streak
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Vivin204Antony&theme=highcontrast&hide_border=true" 
-    width="49%"
+  <img
+    height="280em"
+    src="https://streak-stats.vercel.app/?user=Vivin204Antony&theme=highcontrast&hide_border=true"
   />
 </p>
 
-### 🏆 GitHub Trophies 
+## 🏆 GitHub Achievements
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=radical&no-frame=true&margin-w=10" 
+  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Developer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Continuous-red?style=for-the-badge" />
+</p>
+
+## 🏅 GitHub Trophy Cabinet
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=radical&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
   />
 </p>
+
 
 ### 📈 Contribution Activity Graph 
 <p align="center">
