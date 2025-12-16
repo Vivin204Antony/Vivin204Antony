@@ -70,10 +70,13 @@ I’m passionate about continuous learning and committed to improving my skills 
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=radical&no-frame=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=flat&column=7&margin-w=15&no-bg=true"
     alt="GitHub Trophies"
   />
 </p>
+
+
+
 
 
 ### 📈 Contribution Activity Graph 
