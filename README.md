@@ -74,8 +74,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=flat&column=7&margin-w=15&no-bg=true" 
-      alt="GitHub Trophies" 
+      src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=flat&column=7&margin-w=15" alt="GitHub Trophies" 
     />
   </a>
 </p>
