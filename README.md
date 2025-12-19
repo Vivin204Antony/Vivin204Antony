@@ -52,11 +52,14 @@ I’m passionate about continuous learning and committed to improving my skills 
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img
-    height="280em"
-    src="https://streak-stats.vercel.app/?user=Vivin204Antony&theme=highcontrast&hide_border=true"
+  <img 
+    height="280em" 
+    src="https://streak-stats.vercel.app/?user=Vivin204Antony&theme=highcontrast&hide_border=true" 
+    alt="GitHub Streak"
   />
 </p>
+
+
 
 ## 🏆 GitHub Achievements
 <p align="center">
@@ -69,9 +72,9 @@ I’m passionate about continuous learning and committed to improving my skills 
 ## 🏅 GitHub Trophy Cabinet
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=flat&column=7&margin-w=15&no-bg=true"
-    alt="GitHub Trophies"
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=flat&column=7&margin-w=15&no-bg=true" 
+    alt="GitHub Trophies" 
   />
 </p>
 
