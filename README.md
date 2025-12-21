@@ -69,16 +69,20 @@ I’m passionate about continuous learning and committed to improving my skills 
   <img src="https://img.shields.io/badge/Learning-Continuous-red?style=for-the-badge" />
 </p>
 
-## 🏅 GitHub Trophy Cabinet
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Vivin204Antony&theme=flat&column=7&margin-w=15" 
-    alt="GitHub Trophies" 
-  />
+  <table align="center" border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Vivin204Antony&show_icons=true&theme=highcontrast&hide_border=false" height="195px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivin204Antony&layout=compact&theme=highcontrast&hide_border=false" height="195px" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
-
-
 
 
 ### 📈 Contribution Activity Graph 
