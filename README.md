@@ -72,8 +72,14 @@ I’m passionate about continuous learning and committed to improving my skills 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivin204Antony&show_icons=true&theme=highcontrast" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivin204Antony&layout=compact&theme=highcontrast" height="195px" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vivin204Antony&show_icons=true&theme=highcontrast&card_width=420"
+    height="210"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivin204Antony&theme=highcontrast&card_width=420"
+    height="210"
+  />
 </p>
 
 
