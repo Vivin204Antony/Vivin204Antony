@@ -145,8 +145,6 @@ I’m passionate about continuous learning and committed to improving my skills 
 </p>
 
 ---
-# ⌨️ Recent Activity
----
 
 # 🔗 Connect with Me
 <p align="center">
