@@ -9,7 +9,7 @@ jobs:
     name: Update README with recent activity
     runs-on: ubuntu-latest
     permissions:
-      contents: write # This gives the bot explicit power to write to your README
+      contents: write # This is the missing "Power Up"
     steps:
       - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
