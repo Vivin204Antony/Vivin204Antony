@@ -1,13 +1,15 @@
 name: Recent Activity Update
 on:
   schedule:
-    - cron: '*/30 * * * *' # Updates every 30 minutes
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This gives the bot explicit power to write to your README
     steps:
       - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
