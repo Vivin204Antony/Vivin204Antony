@@ -69,18 +69,6 @@ I’m passionate about continuous learning and committed to improving my skills 
   <img src="https://img.shields.io/badge/Learning-Continuous-red?style=for-the-badge" />
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Vivin204Antony&show_icons=true&theme=highcontrast&card_width=420"
-    height="210"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivin204Antony&theme=highcontrast&card_width=420"
-    height="210"
-  />
-</p>
 
 
 ### 📈 Contribution Activity Graph 
