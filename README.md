@@ -20,14 +20,16 @@ I’m passionate about continuous learning and committed to improving my skills 
 
 # 🧩 Experience
 
-## 🌾 **Agrophysics Intern — Blossom Agritech**  
-**Tirunelveli · On-site | May 2023 – Aug 2023**
+## 🛠️ **Software / Technology Intern — TapTrack**  
+**Austin, Texas - Remote | Nov 2025 – Present**
 
-- Hands-on experience in modern agricultural practices, greenhouse operations, and crop monitoring.  
-- Performed surveying, plant population analysis, and soil sampling for NPK, pH, moisture, and micronutrients.  
-- Worked with drip irrigation systems, filtration units, and automated smart-irrigation tech such as **GroTron** and **Netafim**.  
-- Observed hydroponic systems and the complete coco peat manufacturing process.  
-- Strengthened skills in **irrigation management**, **soil testing**, and **controlled-environment agriculture**.
+- Assisting in software development for TapTrack’s web and mobile platforms, including feature implementation, bug fixes, and integration support.  
+- Gaining hands-on exposure to Near Field Communication (NFC) solutions integrating hardware, web content, and native applications.  
+- Working with TapTrack’s NFC development ecosystem, including NFC readers, writers, and emulation via SDK-based platforms.  
+- Supporting development and testing of cashless, contactless systems used for events and venues.  
+- Contributing to applications for user engagement, product authentication, check-in systems, and operational workflows.  
+- Collaborating on AI-powered workforce management solutions, including real-time monitoring and intelligent scheduling.  
+- Building understanding of end-to-end product development, from requirements analysis to deployment support.
 
 
 ## 💼 **Digital Marketing Intern — Brand Monk Academy**  
@@ -38,6 +40,15 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Executed SEM campaigns and analyzed performance metrics for optimization.  
 - Created SEO-optimized content, marketing copy, and social media creatives.  
 - Gained exposure to **affiliate marketing**, **influencer outreach**, **guerrilla marketing**, and **trend analysis**.
+
+## 🌾 **Agrophysics Intern — Blossom Agritech**  
+**Tirunelveli · On-site | May 2023 – Aug 2023**
+
+- Hands-on experience in modern agricultural practices, greenhouse operations, and crop monitoring.  
+- Performed surveying, plant population analysis, and soil sampling for NPK, pH, moisture, and micronutrients.  
+- Worked with drip irrigation systems, filtration units, and automated smart-irrigation tech such as **GroTron** and **Netafim**.  
+- Observed hydroponic systems and the complete coco peat manufacturing process.  
+- Strengthened skills in **irrigation management**, **soil testing**, and **controlled-environment agriculture**.
 
 
 ## 🎯 My Focus Areas
