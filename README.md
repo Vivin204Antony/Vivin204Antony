@@ -21,7 +21,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 # 🧩 Experience
 
 ## 🛠️ **Software / Technology Intern — TapTrack**  
-**Austin, Texas - Remote | Nov 2025 – Present**
+**Austin, Texas · Remote | Nov 2025 – Present**
 
 - Assisting in software development for TapTrack’s web and mobile platforms, including feature implementation, bug fixes, and integration support.  
 - Gaining hands-on exposure to Near Field Communication (NFC) solutions integrating hardware, web content, and native applications.  
@@ -33,7 +33,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 
 
 ## 💼 **Digital Marketing Intern — Brand Monk Academy**  
-**Coimbatore · Remote | Jul 2025 – Oct 2025**
+**Coimbatore, R.S.Puram · Remote | Jul 2025 – Oct 2025**
 
 - Built and maintained **WordPress/Elementor** websites with focus on UX and conversions.  
 - Conducted SEO audits, keyword research, on-page optimization, and link-building activities.  
