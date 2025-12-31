@@ -20,7 +20,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 
 # 🧩 Experience
 
-## 🛠️ **Software / Technology Intern — TapTrack**  
+## 🛠️ **Software Developer Intern — TapTrack**  
 **Austin, Texas · Remote | Nov 2025 – Present**
 
 - Assisting in software development for TapTrack’s web and mobile platforms, including feature implementation, bug fixes, and integration support.  
