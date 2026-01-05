@@ -40,6 +40,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Executed SEM campaigns and analyzed performance metrics for optimization.  
 - Created SEO-optimized content, marketing copy, and social media creatives.  
 - Gained exposure to **affiliate marketing**, **influencer outreach**, **guerrilla marketing**, and **trend analysis**.
+- Strategic Growth: Leveraged guerrilla marketing and trend analysis to create SEO-optimized content and social media creatives for influencer outreach.
 
 ## 🌾 **Agrophysics Intern — Blossom Agritech**  
 **Tirunelveli · On-site | May 2023 – Aug 2023**
@@ -49,6 +50,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Worked with drip irrigation systems, filtration units, and automated smart-irrigation tech such as **GroTron** and **Netafim**.  
 - Observed hydroponic systems and the complete coco peat manufacturing process.  
 - Strengthened skills in **irrigation management**, **soil testing**, and **controlled-environment agriculture**.
+- Industrial Process Management: Documented the complete coco peat manufacturing process, identifying opportunities for operational efficiency in agricultural production.
 
 
 ## 🎯 My Focus Areas
