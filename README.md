@@ -12,15 +12,19 @@
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="100%" />
 
-# 👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
+
 I’m a postgraduate student specializing in software development, with strong proficiency in Java and JavaScript. I enjoy building scalable, user-focused applications and working across both frontend and backend technologies. I have hands-on experience with modern frameworks, databases, cloud platforms, and DevOps tools.
 
 I’m passionate about continuous learning and committed to improving my skills by exploring new technologies, contributing to meaningful projects, and solving real-world problems. My goal is to create reliable, efficient, and maintainable software while constantly growing as a developer.
 
+---
 
-# 🧩 Experience
+## 🧩 Experience
 
-## 🛠️ **Software Developer Intern — TapTrack**  
+### 🛠️ **Software Developer Intern — TapTrack**  
 **Austin, Texas · Remote | Nov 2025 – Present**
 
 - Assisting in software development for TapTrack’s web and mobile platforms, including feature implementation, bug fixes, and integration support.  
@@ -31,123 +35,162 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Collaborating on AI-powered workforce management solutions, including real-time monitoring and intelligent scheduling.  
 - Building understanding of end-to-end product development, from requirements analysis to deployment support.
 
+---
 
-## 💼 **Digital Marketing Intern — Brand Monk Academy**  
+### 💼 **Digital Marketing Intern — Brand Monk Academy**  
 **Coimbatore, R.S.Puram · Remote | Jul 2025 – Oct 2025**
 
 - Built and maintained **WordPress/Elementor** websites with focus on UX and conversions.  
 - Conducted SEO audits, keyword research, on-page optimization, and link-building activities.  
 - Executed SEM campaigns and analyzed performance metrics for optimization.  
 - Created SEO-optimized content, marketing copy, and social media creatives.  
-- Gained exposure to **affiliate marketing**, **influencer outreach**, **guerrilla marketing**, and **trend analysis**.
+- Gained exposure to **affiliate marketing**, **influencer outreach**, **guerrilla marketing**, and **trend analysis**.  
 - Strategic Growth: Leveraged guerrilla marketing and trend analysis to create SEO-optimized content and social media creatives for influencer outreach.
 
-## 🌾 **Agrophysics Intern — Blossom Agritech**  
+---
+
+### 🌾 **Agrophysics Intern — Blossom Agritech**  
 **Tirunelveli · On-site | May 2023 – Aug 2023**
 
 - Hands-on experience in modern agricultural practices, greenhouse operations, and crop monitoring.  
 - Performed surveying, plant population analysis, and soil sampling for NPK, pH, moisture, and micronutrients.  
 - Worked with drip irrigation systems, filtration units, and automated smart-irrigation tech such as **GroTron** and **Netafim**.  
 - Observed hydroponic systems and the complete coco peat manufacturing process.  
-- Strengthened skills in **irrigation management**, **soil testing**, and **controlled-environment agriculture**.
+- Strengthened skills in **irrigation management**, **soil testing**, and **controlled-environment agriculture**.  
 - Industrial Process Management: Documented the complete coco peat manufacturing process, identifying opportunities for operational efficiency in agricultural production.
 
+---
 
-## 🎯 My Focus Areas
-- Software Development  
-- AI/ML Development  
-- Java and JavaScript Programming  
-- Full Stack Web Application Development  
+## 🎯 Areas of Focus
+
+- Software Engineering – Designing and developing reliable, scalable applications  
+- Artificial Intelligence & Machine Learning – Building intelligent, data-driven solutions  
+- Java & JavaScript Development – Strong proficiency in object-oriented and web-based programming  
+- Full-Stack Web Development – End-to-end application development across frontend and backend systems  
 
 ---
 
-# 📊 GITHUB STATS & TROPHIES
+## 🚀 Deployed Applications
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img 
-    height="280em" 
-    src="https://streak-stats.vercel.app/?user=Vivin204Antony&theme=highcontrast&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
-
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-Developer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Continuous-red?style=for-the-badge" />
-</p>
-
-
-
-### 📈 Contribution Activity Graph 
-<p align="center">
-  <img 
-    height="280em" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Vivin204Antony&theme=highcontrast&radius=10" 
-  />
-</p>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Live</th>
+      <th align="left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>GitHub Profile</b></td>
+      <td>Personal GitHub showcasing projects and contributions</td>
+      <td><a href="https://github.com/Vivin204Antony">Visit</a></td>
+      <td>Markdown · GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><b>Digital Interactive Space</b></td>
+      <td>Interactive and responsive web UI</td>
+      <td><a href="https://digital-interactive-space.vercel.app/">Live</a></td>
+      <td>React · Vite</td>
+    </tr>
+    <tr>
+      <td><b>Memory Card Game</b></td>
+      <td>Memory-based card matching game</td>
+      <td><a href="https://memory-card-game-nu-orcin.vercel.app/">Live</a></td>
+      <td>React Hooks · Game Logic</td>
+    </tr>
+    <tr>
+      <td><b>Text ↔ Voice Converter</b></td>
+      <td>Speech and text conversion tool</td>
+      <td><a href="https://text-voice-converter-six.vercel.app">Live</a></td>
+      <td>Web Speech API</td>
+    </tr>
+    <tr>
+      <td><b>A2Z Brands</b></td>
+      <td>Business website with backend</td>
+      <td><a href="https://a2z-brands.onrender.com">Live</a></td>
+      <td>Node.js · Express</td>
+    </tr>
+    <tr>
+      <td><b>Flask Registration App</b></td>
+      <td>User authentication on AWS</td>
+      <td><a href="https://flask-registration-app-env.eba-uxtn2n6h.ap-south-1.elasticbeanstalk.com/">Live</a></td>
+      <td>Flask · AWS</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-# 🛠️ **Languages & Tools**
+## 📊 GitHub Stats & Activity
 
-## 🖥️ Programming Languages
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" />
+  <img height="280em" src="https://streak-stats.vercel.app/?user=Vivin204Antony&theme=highcontrast&hide_border=true" />
 </p>
 
-## 🎨 Frontend
+### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" />
-</p>
-
-## 🛠 Backend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" />
-</p>
-
-## 🗄 Databases
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" />
-</p>
-
-## ☁️ DevOps & Cloud
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" />
-</p>
-
-## 🧰 Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48" height="48" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivin204Antony&theme=highcontrast&radius=10" />
 </p>
 
 ---
 
-# 🔗 Connect with Me
+## 🛠️ Languages & Tools
+
+### 🖥️ Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="48" />
+</p>
+
+### 🛠 Backend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" />
+</p>
+
+### 🗄 Databases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" />
+</p>
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="48" />
+</p>
+
+---
+
+## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/antony204vivin/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" /></a>
   <a href="https://wa.me/9361822325"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="40" /></a>
