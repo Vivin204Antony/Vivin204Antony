@@ -118,8 +118,15 @@ I’m passionate about continuous learning and committed to improving my skills 
       <td><a href="https://flask-registration-app-env.eba-uxtn2n6h.ap-south-1.elasticbeanstalk.com/">Live</a></td>
       <td>Flask · AWS</td>
     </tr>
+    <tr>
+      <td><b>Insight Learn – AI Powered Study Companion</b></td>
+      <td>Educational website providing AI-assisted learning resources</td>
+      <td><a href="https://vivin.kesug.com/">Live</a></td>
+      <td>WordPress · Elementor</td>
+    </tr>
   </tbody>
 </table>
+
 
 ---
 
