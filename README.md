@@ -61,7 +61,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 
 ---
 
-## 🎯 Areas of Focus
+## 🎯 Interested Areas
 
 - Software Engineering – Designing and developing reliable, scalable applications  
 - Artificial Intelligence & Machine Learning – Building intelligent, data-driven solutions  
