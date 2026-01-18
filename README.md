@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 I’m a postgraduate student specializing in software development, with strong proficiency in Java and JavaScript. I enjoy building scalable, user-focused applications and working across both frontend and backend technologies. I have hands-on experience with modern frameworks, databases, cloud platforms, and DevOps tools.
 
