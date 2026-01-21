@@ -70,6 +70,15 @@ I’m passionate about continuous learning and committed to improving my skills 
 
 ---
 
+## 🏆 Achievements & Certifications
+
+- Earned **LeetCode 50 Days and 100 Days Streak Badges (2025)**, demonstrating consistency, problem-solving discipline, and strong foundations in data structures and algorithms.  
+- Successfully completed multiple **AI and Data-related certification programs** through **Infosys Springboard**, covering key domains such as Artificial Intelligence, Data Science, Deep Learning, NLP, Computer Vision, and RPA.  
+- Considered this learning journey—from understanding fundamental system concepts (*power button*) to becoming a confident **Problem Solver**—as one of my most significant professional milestones.  
+- Certifications and learning milestones are professionally documented and showcased on my LinkedIn profile, demonstrating consistent upskilling and industry readiness.
+
+---
+
 ## 🚀 Deployed Applications
 
 <table align="center">
