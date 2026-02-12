@@ -16,7 +16,9 @@
 
 ## 👨‍💻 About Me 
 
-I’m a postgraduate student specializing in software development, with strong proficiency in Java and JavaScript. I enjoy building scalable, user-focused applications and working across both frontend and backend technologies. I have hands-on experience with modern frameworks, databases, cloud platforms, and DevOps tools. I’m passionate about continuous learning and committed to improving my skills by exploring new technologies, contributing to meaningful projects, and solving real-world problems. My goal is to create reliable, efficient, and maintainable software while constantly growing as a developer.
+I’m a postgraduate student specializing in software development, with strong proficiency in Java and JavaScript. I enjoy building scalable, user-focused applications and working across both frontend and backend technologies. I have hands-on experience with modern frameworks, databases, cloud platforms, and DevOps tools. 
+
+I’m passionate about continuous learning and committed to improving my skills by exploring new technologies, contributing to meaningful projects, and solving real-world problems. My goal is to create reliable, efficient, and maintainable software while constantly growing as a developer.
 
 ---
 
