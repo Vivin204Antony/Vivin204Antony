@@ -146,9 +146,21 @@ I’m passionate about continuous learning and committed to improving my skills 
   <img height="280em" src="https://streak-stats.vercel.app/?user=Vivin204Antony&theme=highcontrast&hide_border=true" />
 </p>
 
+### 🚀 Key Metrics & Languages
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vivin204Antony&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vivin204Antony&layout=compact&theme=highcontrast&hide_border=true&langs_count=6" />
+</p>
+
 ### 📈 Contribution Activity Graph
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivin204Antony&theme=highcontrast&radius=10" />
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@8602e1af-d311-49d2-86db-d5f65d7773c2">
+    <img src="https://wakatime.com/badge/user/8602e1af-d311-49d2-86db-d5f65d7773c2.svg" alt="Wakatime tracker" />
+  </a>
 </p>
 
 ---
