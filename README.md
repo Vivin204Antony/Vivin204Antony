@@ -12,14 +12,14 @@
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="100%" />
 
----
+
 
 ## 👨‍💻 About Me 
 
 I’m a postgraduate student specializing in software development, with strong proficiency in Java and JavaScript. I enjoy building scalable, user-focused applications and working across both frontend and backend technologies. I have hands-on experience with modern frameworks, databases, cloud platforms, and DevOps tools. 
 I’m passionate about continuous learning and committed to improving my skills by exploring new technologies, contributing to meaningful projects, and solving real-world problems. My goal is to create reliable, efficient, and maintainable software while constantly growing as a developer.
 
----
+
 
 ## 🧩 Experience
 
@@ -34,7 +34,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Collaborating on AI-powered workforce management solutions, including real-time monitoring and intelligent scheduling.  
 - Building understanding of end-to-end product development, from requirements analysis to deployment support.
 
----
+
 
 ### 💼 **Digital Marketing Intern — Brand Monk Academy**  
 **Coimbatore, R.S.Puram · Remote | Jul 2025 – Oct 2025**
@@ -46,7 +46,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Gained exposure to **affiliate marketing**, **influencer outreach**, **guerrilla marketing**, and **trend analysis**.  
 - Strategic Growth: Leveraged guerrilla marketing and trend analysis to create SEO-optimized content and social media creatives for influencer outreach.
 
----
+
 
 ### 🌾 **Agrophysics Intern — Blossom Agritech**  
 **Tirunelveli · On-site | May 2023 – Aug 2023**
@@ -58,7 +58,6 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Strengthened skills in **irrigation management**, **soil testing**, and **controlled-environment agriculture**.  
 - Industrial Process Management: Documented the complete coco peat manufacturing process, identifying opportunities for operational efficiency in agricultural production.
 
----
 
 ## 🎯 Interested Areas
 
@@ -67,7 +66,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Java & JavaScript Development – Strong proficiency in object-oriented and web-based programming  
 - Full-Stack Web Development – End-to-end application development across frontend and backend systems  
 
----
+
 
 ## 🏆 Achievements & Certifications
 
@@ -76,7 +75,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 - Considered this learning journey—from understanding fundamental system concepts (*power button*) to becoming a confident **Problem Solver**—as one of my most significant professional milestones.  
 - Certifications and learning milestones are professionally documented and showcased on my LinkedIn profile, demonstrating consistent upskilling and industry readiness.
 
----
+
 
 ## 🚀 Deployed Applications
 
@@ -136,7 +135,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 </table>
 
 
----
+
 
 ## 📊 GitHub Stats & Activity
 
@@ -156,7 +155,7 @@ I’m passionate about continuous learning and committed to improving my skills 
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Vivin204Antony&theme=highcontrast&radius=10" />
 </p>
 
----
+
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -166,7 +165,7 @@ I’m passionate about continuous learning and committed to improving my skills 
   <a href="https://resumeportfolio-e7022.web.app"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" /></a>
 </p>
 
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
