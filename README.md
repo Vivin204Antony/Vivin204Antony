@@ -25,7 +25,7 @@ I’m passionate about continuous learning and committed to improving my skills 
 ## 🧩 Experience
 
 ### 🛠️ **Software Developer Intern — TapTrack**  
-**Austin, Texas · Remote | Nov 2025 – Present**
+**Austin, Texas · Remote | Nov 2025 – Feb 2026**
 
 - Assisting in software development for TapTrack’s web and mobile platforms, including feature implementation, bug fixes, and integration support.  
 - Gaining hands-on exposure to Near Field Communication (NFC) solutions integrating hardware, web content, and native applications.  
