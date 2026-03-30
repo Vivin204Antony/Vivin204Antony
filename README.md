@@ -91,6 +91,12 @@ I’m passionate about continuous learning and committed to improving my skills 
   </thead>
   <tbody>
     <tr>
+      <td><b>FlyLite – Smart Luggage Optimization</b></td>
+      <td>Innovative aviation solution to reduce cost by separating passenger and luggage transport with smart cargo optimization</td>
+      <td><a href="https://fly-lite.vercel.app/">Live</a></td>
+      <td>React · Node.js · Express · MongoDB</td>
+    </tr>
+    <tr>
       <td><b>GitHub Profile</b></td>
       <td>Personal GitHub showcasing projects and contributions</td>
       <td><a href="https://github.com/Vivin204Antony">Visit</a></td>
